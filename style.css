@@ -2,20 +2,22 @@ body {
   background-color: white;
 }
 
-h1 {
-
+h2 {
+  font-size: 45px;
 }
 
 p {
-
+  font-size: 14px;
 }
 
 a {
   color: white;
+  font-size: 20px;
 }
 
 .title {
   padding: 30px 80px;
+  text-align: center;
 }
 
 .navigation{
